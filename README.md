@@ -2,6 +2,9 @@
 # proyecto_ocr
 proyecto_ocr aplicaciones ML 2026-1
 =======
+
+# PROYECTO GENERADO CON APOYO EN IA GENERATIVA
+
 # Sistema OCR para Extracción de Texto desde Imágenes
 
 ## 1. Descripción General
